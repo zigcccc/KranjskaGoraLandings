@@ -1,0 +1,12 @@
+{
+  "name": "Landingi2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass:css --style compressed"
+  },
+  "repository": "git@github.com:zigcccc/KranjskaGoraLandings.git",
+  "author": "Žiga Krašovec <zkrasovec@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
